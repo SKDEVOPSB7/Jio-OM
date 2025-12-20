@@ -1,1 +1,43 @@
-Hi myself sureshkumar and iam a Devops engineer.
+Hi myself sureshkumar and iam a Devops engineer
+
+We divided a all Devops concepts into four parts .There are :
+
+Part -1 :
+---------
+
+--> Linux 
+--> Shell Scripting 
+--> Github
+
+
+part-2 :
+--------
+
+--> Maven
+--> Tomcat
+--> SonarQube
+--> Nexus 
+--> Jenkins 
+
+
+Part-3 :
+--------
+
+--> Docker 
+--> Kubernetes
+--> Ansible
+--> Github actions
+
+Part-4 :
+--------
+
+--> AWS 
+--> Terraform
+
+
+
+
+
+
+
+
